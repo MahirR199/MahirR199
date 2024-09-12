@@ -12,7 +12,7 @@
 
 <br />
 
-Hi,I'm Mahir Rahman🙌, a Software Developer, Web Developer and Machine Learning Enthusiast. Apart from that I love getting involved in Problem Solving and learning new skills.❤✌
+Hi, I'm Mahir Rahman🙌, a Software Developer, Web Developer and Machine Learning Enthusiast. Apart from that I love getting involved in Problem Solving and learning new skills.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />

@@ -16,15 +16,6 @@ Hi, I'm Mahir Rahman🙌, a Software Developer, Web Developer and Machine Learni
 
 
 
-**Talking about Personal Stuff:**
-
-- 🔭 I’m currently looking for Winter Internships.
-- 🌱 I’m currently learning React.
-- 👯 Aspiring Software Developer.
-- 💬 Ask me about anything I would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-
-
 
 
 **Languages and Tools:**
